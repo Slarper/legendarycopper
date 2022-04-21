@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "legendarycopper:copper_pickaxe"
+    },
+    {
+      "item": "legendarycopper:copper_shovel"
+    },
+    {
+      "item": "legendarycopper:copper_axe"
+    },
+    {
+      "item": "legendarycopper:copper_hoe"
+    },
+    {
+      "item": "legendarycopper:copper_sword"
+    },
+    {
+      "item": "legendarycopper:copper_helmet"
+    },
+    {
+      "item": "legendarycopper:copper_chestplate"
+    },
+    {
+      "item": "legendarycopper:copper_leggings"
+    },
+    {
+      "item": "legendarycopper:copper_boots"
+    },
+    {
+      "item": "legendarycopper:copper_horse_armor"
+    }
+  ],
+  "result": "legendarycopper:copper_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}
